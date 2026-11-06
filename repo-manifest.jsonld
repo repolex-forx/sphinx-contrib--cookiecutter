@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/cookiecutter/commit/aa221237cf02f0d838a08abfcae894656acdaf3d",
       "git:hexsha": "aa221237cf02f0d838a08abfcae894656acdaf3d",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-06T08:40:38.426927+00:00"
     }
   ]
 }
