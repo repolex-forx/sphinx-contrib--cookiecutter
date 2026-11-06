@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "cookiecutter",
+  "versions": [
+    {
+      "commit": "aa221237cf02f0d838a08abfcae894656acdaf3d",
+      "tag": "",
+      "parsed_at": "2026-11-06T08:40:38.427409+00:00"
+    }
+  ]
+}
