@@ -1,0 +1,8 @@
+{
+  "next_action": "ast",
+  "phase_completed": "parse",
+  "commit_sha": "aa221237cf02f0d838a08abfcae894656acdaf3d",
+  "ts": "2026-11-06T08:38:31Z",
+  "blobs_parsed": 18,
+  "blobs_skipped": 1
+}
